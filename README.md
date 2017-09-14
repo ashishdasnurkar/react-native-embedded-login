@@ -2,7 +2,7 @@
 
 Supports username/password login
 
-Just update auth0-params.js with your clientId, domain, and realm (database name).
+Just update auth0-params.json with your clientId, domain, and realm (database name).
 
 npm install
 npm start or `npm run ios` or `npm run android`
